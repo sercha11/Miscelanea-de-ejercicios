@@ -1,0 +1,6 @@
+com\mycompany\productos\vista\VistaProductos.class
+com\mycompany\productos\controlador\ProductoControler.class
+com\mycompany\productos\controlador\InterfaceProducto.class
+com\mycompany\productos\vista\VistaProductos$1.class
+com\mycompany\productos\Productos.class
+com\mycompany\productos\modelo\Producto.class
